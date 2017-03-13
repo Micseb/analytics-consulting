@@ -8,6 +8,5 @@ Here you'll find exciting challenges and diverse opportunities.
 
 ## Open positions
 
- - [Machine Learning Expert](/doc/jobs/ml-expert.md)
+ - [Data Scientist / Artificial Intelligence](https://bnpparibasgt.taleo.net/careersection/gt/jobdetail.ftl?job=RHG17_CIB_CONS_05&lang=fr_FR&src=BLD-201163)
 
-Apply on our platform: https://bnpparibasgt.taleo.net/careersection/gt/jobdetail.ftl?job=RHG17_CIB_CONS_05&lang=fr_FR&src=BLD-201163
